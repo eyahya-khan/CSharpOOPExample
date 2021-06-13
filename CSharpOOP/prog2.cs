@@ -20,5 +20,24 @@ namespace CSharpOOP
         public string model = "Mustang";
     }*/
 
+    //PART-3
+    /*class Person
+    {
+        private string name;  // field
+        public string Name    // property
+        {
+            get { return name; }
+            set { name = value; }
+        }
+    }*/
+
+    //PART-4
+    //Shorthand properties SET & GET
+    /*class Person
+    {
+        public string Name    // property
+        { get; set; }
+    }*/
+
 
 }
